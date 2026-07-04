@@ -3,7 +3,7 @@
 </p>                                                           
                                                     
                                                                    
-                                                                   Hi there 👋 
+                                                               Hi there 👋 
 
 🎓 Final-year CSE Student<br>⚡ Full-Stack & AI Developer<br>🧩 DSA | Java<br>🌱 Always learning, always building<br>🚀 Shipping projects with purpose
 
