@@ -1,4 +1,9 @@
-## Hi there 👋 
+<p align="center">
+  <img src="d7a0e07686e15945172b31787f08ce77.jpg" alt="d7a0e07686e15945172b31787f08ce7" width="100%" />
+</p>                                                           
+                                                    
+                                                                   
+                                                                   Hi there 👋 
 
 🎓 Final-year CSE Student<br>⚡ Full-Stack & AI Developer<br>🧩 DSA | Java<br>🌱 Always learning, always building<br>🚀 Shipping projects with purpose
 
